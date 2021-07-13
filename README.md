@@ -6,7 +6,7 @@ Research Paper : https://www.hindawi.com/journals/complexity/2020/8885861/
 
 Project Code: https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb
 
-
+Project is New and Unique (Totally based on Research paper with new idea and great result) 
 
 
 
@@ -31,4 +31,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 💬 Gmail: **vatshayan007@gmail.com**
 
 ## PROJECTS WEBSITES: [LINK1](https://vatshayan007.wixsite.com/website) and [LINK2](https://projectspro.in)
-https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb
+
+
+### FullMarksProjects
