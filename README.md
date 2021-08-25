@@ -30,7 +30,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS WEBSITES: [LINK](https://vatshayan007.wixsite.com/website) 
 
+### CSE Projects: [LINK](https://www.cse-projects.com)
 
-### FullMarksProjects
