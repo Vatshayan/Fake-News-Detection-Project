@@ -4,7 +4,7 @@ Final Year College Project with Project Report, PPT, Code and Documents
 
 Research Paper : https://www.hindawi.com/journals/complexity/2020/8885861/ 
 
-Project Code: https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb
+Project Code: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
 
 Project is New and Unique (Totally based on Research paper with new idea and great result) 
 
