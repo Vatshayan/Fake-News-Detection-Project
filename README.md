@@ -33,7 +33,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 💬 Gmail: **vatshayan007@gmail.com**
 
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
-
+### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
+### [Computer Science Project](https://computerscienceproject.com) list (Select any mail me, will send you)
 
 #free_disussion #free_explanation #helping_always #thanks
