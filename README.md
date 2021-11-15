@@ -2,7 +2,7 @@
 Final Year College Project with Project Report, PPT, Code and Documents 
 
 
-### Research Paper: https://www.hindawi.com/journals/complexity/2020/8885861/ 
+### Research Paper: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
 ### Project Code: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
 
