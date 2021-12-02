@@ -2,10 +2,11 @@
 Final Year College Project with Project Report, PPT, Code and Documents 
 
 ### PPT: [Click](https://docs.google.com/presentation/d/1jZESRx4RjRvxPXxd8eY6lSJgdPk4RRli7NmmYUhcaeM/edit?usp=sharing)
+![Screenshot 2021-12-03 at 12 25 50 AM](https://user-images.githubusercontent.com/28294942/144485388-ab0cb531-51b8-457e-8984-f2a54aeb4ea3.png)
 
-### Research Paper: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
+### RESEARCH PAPER: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
-### Project Code: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
+### PROJECT CODE: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
 
 Project is New and Unique (Totally based on Research paper with new idea and great result) 
 
@@ -24,12 +25,12 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💌 Feel free to contact me for any kind of help on any projects.
  
-### HOW TO RUN THE PROJECT-
+### HOW TO RUN THE PROJECT
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
 ### 📫 HOW TO REACH ME 
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+💬 WhatsApp: +91 9310631437 (Helping 24*7)  **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
 💬 Gmail: **vatshayan007@gmail.com**
 
@@ -37,4 +38,3 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
 ### [Computer Science Project](https://computerscienceproject.com) list (Select any mail me, will send you)
 
-#free_disussion #free_explanation #helping_always #thanks
