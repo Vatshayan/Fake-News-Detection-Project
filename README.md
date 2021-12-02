@@ -1,6 +1,7 @@
 # Fake-News-Detection-Project
 Final Year College Project with Project Report, PPT, Code and Documents 
 
+### PPT: [Click](https://docs.google.com/presentation/d/1jZESRx4RjRvxPXxd8eY6lSJgdPk4RRli7NmmYUhcaeM/edit?usp=sharing)
 
 ### Research Paper: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
