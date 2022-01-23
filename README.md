@@ -36,5 +36,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 
 ### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
-### [Computer Science Project](https://computerscienceproject.com) list (Select any mail me, will send you)
+### [Computer Science Project](https://computerscienceproject.com) list 
 
