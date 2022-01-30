@@ -36,5 +36,8 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 
 ### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
-### [Computer Science Project](https://computerscienceproject.com) list 
+
+### [Computer Science Projects](https://computerscienceproject.com) list 
+
+### New Project [Fake Mask Detection Project : https://github.com/Vatshayan/Face-Mask-Detection-Project]
 
