@@ -4,7 +4,7 @@ Final Year College Project with Project Report, PPT, Code and Documents
 
 ![Screenshot 2021-12-03 at 12 25 50 AM](https://user-images.githubusercontent.com/28294942/144485388-ab0cb531-51b8-457e-8984-f2a54aeb4ea3.png)
 
-### PPT : [CLICK](https://docs.google.com/presentation/d/e/2PACX-1vQ198M_2O_8K-hGcBal3m2UtYFJmU7GsJYPDmHb6nj7WfS93pMbWVcOXcamQBkGiQLVLu2ntcXKV6hx/pub?start=false&loop=false&delayms=3000)
+### PPT : [CLICK](https://docs.google.com/presentation/d/e/2PACX-1vRN-vXLHXot00PeBUpKUB_dnPci41lBuLDHj6cr5P7Zgza-MUIc7xiTt0eQZHQ-og-qOzBC1jhUG6uW/pub?start=true&loop=false&delayms=2000)
 
 ### RESEARCH BASE PAPER: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
