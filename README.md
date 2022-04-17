@@ -1,12 +1,12 @@
 # Fake-News-Detection-Project
 Final Year College Project with Project Report, PPT, Code and Documents 
 
-### PPT: [Click](https://docs.google.com/presentation/d/1jZESRx4RjRvxPXxd8eY6lSJgdPk4RRli7NmmYUhcaeM/edit?usp=sharing)
+
 ![Screenshot 2021-12-03 at 12 25 50 AM](https://user-images.githubusercontent.com/28294942/144485388-ab0cb531-51b8-457e-8984-f2a54aeb4ea3.png)
 
 ### RESEARCH PAPER: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
-### PROJECT CODE: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
+### PROJECT DEMO CODE: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
 
 Project is New and Unique (Totally based on Research paper with new idea and great result) 
 
