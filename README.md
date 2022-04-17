@@ -39,5 +39,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### [Computer Science Projects](https://computerscienceproject.com) list 
 
-### New Project [Fake Mask Detection Project : https://github.com/Vatshayan/Face-Mask-Detection-Project]
 
