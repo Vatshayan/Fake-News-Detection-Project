@@ -4,7 +4,9 @@ Final Year College Project with Project Report, PPT, Code and Documents
 
 ![Screenshot 2021-12-03 at 12 25 50 AM](https://user-images.githubusercontent.com/28294942/144485388-ab0cb531-51b8-457e-8984-f2a54aeb4ea3.png)
 
-### RESEARCH PAPER: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
+### PPT : [CLICK](https://docs.google.com/presentation/d/e/2PACX-1vQ198M_2O_8K-hGcBal3m2UtYFJmU7GsJYPDmHb6nj7WfS93pMbWVcOXcamQBkGiQLVLu2ntcXKV6hx/pub?start=false&loop=false&delayms=3000)
+
+### RESEARCH BASE PAPER: [Click](https://www.hindawi.com/journals/complexity/2020/8885861/)
 
 ### PROJECT DEMO CODE: [Click](https://github.com/Vatshayan/Fake-News-Detection-Project/blob/main/fake_news_code_d.ipynb) [I have made code private, if you need then mail me I will send you asap]
 
