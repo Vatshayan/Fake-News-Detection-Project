@@ -1,6 +1,7 @@
 # Fake-News-Detection-Project
 Final Year College Project with Project Report, PPT, Code and Documents 
 
+### Project Youtube Explanation : https://youtu.be/DQRZHOpU9bU
 
 ![Screenshot 2021-12-03 at 12 25 50 AM](https://user-images.githubusercontent.com/28294942/144485388-ab0cb531-51b8-457e-8984-f2a54aeb4ea3.png)
 
@@ -41,4 +42,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### [Computer Science Projects](https://computerscienceproject.com) list 
 
-
+### Project Youtube Explanation : https://youtu.be/DQRZHOpU9bU
