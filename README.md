@@ -31,15 +31,15 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### HOW TO RUN THE PROJECT
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
-### 📫 HOW TO REACH ME 
 
-💬 WhatsApp: +91 9310631437 (Helping 24*7)  **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+## How to Reach me :
 
-💬 Gmail: **vatshayan007@gmail.com**
+### 💬 Mail : vatshayan007@gmail.com 
 
+### 💬 WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### CSE Projects Help Website : [LINK](https://www.cse-projects.com)
+### Website : https://www.cse-projects.com/
 
-### [Computer Science Projects](https://computerscienceproject.com) list 
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
 
 ### Project Youtube Explanation : https://youtu.be/DQRZHOpU9bU
