@@ -1,5 +1,5 @@
 # Fake-News-Detection-Project
-Final Year College Project with Project Report, PPT, Code and Documents 
+Final Year College Project with Project Synopsis, Report, PPT, Code and Documents 
 
 ### Project Youtube Explanation : https://youtu.be/DQRZHOpU9bU
 
